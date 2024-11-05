@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Daniel Lara</h1>
-<h3 align="center">A passionate frontend developer from Colombia, i like to work on Angular and do the design with tailwind css</h3>
+<h1 align="center">Hi 👋, I'm Santiago Lara</h1>
+<h3 align="center">I am a person who likes to be in constant search for new knowledge, I have solid foundations in languages ​​such as Java - TypeScript and front-end management with the Angular framework as well as intermediate knowledge in database managers such as SQL Server - MySQL - MongoDB.</h3>
 
 
 
-- 🌱 I’m currently learning **Angular, NodeJS, Java, SQL**
+- 🌱 I’m currently learning **Angular, NodeJS, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SxntiagoLara?tab=repositories](https://github.com/SxntiagoLara?tab=repositories)
 
